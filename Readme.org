@@ -1,0 +1,7 @@
+* Light Tomatoes a Pomodoro Technique Notification with Lights
+Light Tomatoes is a application that will send state change alerts to smart lights for when a Pomodoro alarm is activated.
+** MVP Features for Philips Hue Lights
+*** Send a state change request after 25 min to indicate small break time of 5 min
+*** Send a state change reqest after the 5 min break has expired
+
+This project is nothing serious and it is my first attempt to learn the scala language.
